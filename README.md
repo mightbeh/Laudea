@@ -2,7 +2,7 @@ Before running the program, makesure that the system is installed with python 2.
 
 Run the setup.bat file to start installation of all packages and configure them.
 
-If some packages arnt installing, try installing the specific packages alone
+If some packages are'nt installing, try installing the specific packages alone
 
 pip install <package_name>
 
@@ -49,4 +49,6 @@ time can be '6 am', '06:00', '6 o clock', etc...
 
 Currently the chat bot can set reminders and create events, find attendence of specific department and year. 
 
+PS: 
+The bot might not work as intended due to lack of development.
 
