@@ -18,24 +18,7 @@ You can run the setup.bat file multiple times.
 
 If there are no errors during the setup process, run the main.py file.
 
-the chatbot should start working,
-
-If there is some errors regarding, 
-
-Go to cmd and type the following one by one:
-
-python
-
-import nltk
-
-nltk.download('all')
-
-Ctrl Z
-
-Enter
-
-Try running the chatbot, It should work properly.
-
+the chatbot should start working, If not try installing your packages properly and check your API keys
 
 
 The chatbot get input using voice and in some cases will ask to confirm by typing the requests.
