@@ -1,4 +1,4 @@
-Find the Demo at: https://www.youtube.com/embed/BQEoaFgtVBk
+Find the Demo at: https://www.youtube.com/BQEoaFgtVBk
 
 Before running the program, makesure that the system is installed with python 2.7 or above.
 
